@@ -1,0 +1,8 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*个人备份*
+*密钥*
+*.log
+/*.zip
